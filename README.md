@@ -6,7 +6,7 @@ A set of test applications built with Solidity, Ethereum & Smart Contracts based
 
 - [Goerli Test Network Etherscan](https://goerli.etherscan.io/)
 - [Infura](https://www.infura.io/)
-- [Metamask](https://www.infura.io/
+- [Metamask](https://www.infura.io/)
 - [Remix](https://remix.ethereum.org/)
 - [Goerli Faucet](https://goerlifaucet.com/)
 
