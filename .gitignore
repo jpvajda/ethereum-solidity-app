@@ -130,4 +130,6 @@ dist
 .pnp.*
 
 
- .DS_Store
+# other
+.DS_Store
+
