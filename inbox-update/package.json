@@ -1,0 +1,21 @@
+{
+  "name": "inbox-updated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "predev": "dotenv-checker --schema .env.schema --env .env.local"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "dotenv": "^16.0.3",
+    "dotenv-checker": "^1.1.5",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.2",
+    "solc": "^0.8.9",
+    "web3": "^1.6.0"
+  }
+}
