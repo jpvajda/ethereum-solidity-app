@@ -19,7 +19,7 @@ A set of test applications built with Solidity, Ethereum & Smart Contracts based
 
 
 ### Inbox Update Project
-https://goerli.etherscan.io/tx/0xd927cf7f1be38b3b47e95f20ddf623cd1f5d135dca18c51592cf5deaf1df3388
+- https://goerli.etherscan.io/tx/0xd927cf7f1be38b3b47e95f20ddf623cd1f5d135dca18c51592cf5deaf1df3388
 
 
 
